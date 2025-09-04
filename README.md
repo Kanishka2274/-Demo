@@ -1,4 +1,4 @@
 # -Demo
 This is my first Git Repository.
 <Br>
-Author - Kanishka Sharma
+Author - Kanishka (student)
